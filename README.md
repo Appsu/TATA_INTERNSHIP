@@ -1,2 +1,3 @@
-# TATA_INTERNSHIP
-Internship task
+Project Overview - This project was part of the Tata Data Visualisation: Empowering Business with Effective Insights virtual internship on Forage. The objective was to analyze retail business data and create visual dashboards that help senior leaders (CEO and CMO) make strategic decisions.In this simulation, I worked as a data analyst consultant responsible for converting raw business data into meaningful visual insights that could support business growth and expansion planning.The project focused on data analysis, visualization, and business storytelling.
+Tools and Technologies Used - Data cleaning, data transpotataion,excel, power Bi
+Challenges Faced - Data Quality Issues(Negative quantities,incorrect price value,missing valu
